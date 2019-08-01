@@ -1,2 +1,2 @@
-# coding_challenge_updated
-pandata coding challenge - revised
+# coding_challenge
+Pandata coding challenge
